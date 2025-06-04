@@ -18,11 +18,11 @@
 
 
 <h4 align="center">
-  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer#hardware---make-your-own-C3Mini-bluejammer">Make your own</a>
+  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer/edit/main/README.md#hardware---make-your-own-c3mini-bluejammer">Make your own</a>
     <span> | </span>
-  <a href="https://github.com/EmenstaNougatC3Mini-BlueJammer#C3Mini-nrf24l01-pinout--battery-mod">Schematics</a>
+  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer/edit/main/README.md#c3mini-gt24-mini-pinout--battery-mod">Schematics</a>
     <span> | </span>
-  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer?tab=readme-ov-file#pcbs-with-C3Mini-and-rf-module-capability---don-anon-techs-online-shop">PCB's</a>
+  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer/edit/main/README.md#pcbs-with-c3mini-and-rf-module-capability---elecrow">PCB's</a>
     <span> | </span>
   <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer#video-tutorials-and-demonstrations">Demos</a>
     <span> | </span>
