@@ -1,4 +1,5 @@
 <h1 align="center">C3Mini-BlueJammer - by @emensta</h1>
+<h1 align="center">Early Stage!</h1>
 <div align="center">
   <h4 align="center">Picture soon!</h3>
   <h3 align="center">Jamming is ILLEGAL! Educational purposes only!</h3>
