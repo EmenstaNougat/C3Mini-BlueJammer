@@ -186,8 +186,8 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 |---------------|------------------|--------------------|
 | VCC           | 3.3V             | (+) capacitor |
 | GND           | GND              | (-) capacitor |
-| CE            | GPIO 20          |
-| CSN           | GPIO 21          |
+| CE            | GPIO 20  (RX)    |
+| CSN           | GPIO 21  (TX)    |
 | SCK           | GPIO 4           |
 | MOSI          | GPIO 6           |
 | MISO          | GPIO 5           |
