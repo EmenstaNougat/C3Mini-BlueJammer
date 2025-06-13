@@ -37,7 +37,7 @@
 </h4>
 
 ## C3Mini-BlueJammer
-The C3Mini-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts various devices using an C3Mini and nRF24 modules, causing plenty of noise and sending unnecessary packets (DoS) but in a super mini form factor!.              
+The C3Mini-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts various devices using an C3Mini and nRF24 modules, causing plenty of noise and sending unnecessary packets (DoS) but in a super mini form factor!              
                                                                     
 It interrupts:  
 **The whole 2.4GHz broadband!** Everything that works on 2.4GHz is being interfered, like:                                                       
